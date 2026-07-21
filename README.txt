@@ -107,10 +107,24 @@ Eto in Japanese:
 辛巳
 
 Name Meaning:
+
 菫 = violet, violet flower
+
 玲 = the clear, beautiful sound of jade; jewel-like beauty
 
 Together, 菫玲 / Sumire combines the delicate violet flower with the clear, jewel-like elegance of 玲, preserving her violet-flower identity while adding a refined and luminous quality that matches her lavender palette, gemstone accents, and graceful tsundere aura.
+
+Surname Meaning:
+
+月 = moon
+
+城 = castle, fortress
+
+Together, 月城 / Tsukishiro gives the impression of a moonlit castle — elegant, secluded, and luminous against the night.
+
+Full Name Meaning:
+
+Together, 月城 菫玲 / Tsukishiro Sumire evokes a violet jewel shining within a moonlit castle — a refined image that unites her lavender palette, gemstone accents, guarded elegance, and hidden warmth.
 
 Core Personality:
 Nyandere + Tsundere
@@ -301,18 +315,6 @@ Physical Appearance Prompt Style 4b — Sumire
  5. Lower Body & Feet: She wears a black pleated miniskirt decorated with a purple floral hem pattern, paired with black thigh-high stockings featuring a strapped garter belt on the left thigh and strappy black combat-style boots adorned with purple laces, buckles, and floral charms.
 
  6. Pose: Posing with her right hand playfully curled into a paw near her face and her left arm resting straight down.
-
- 1. Base Anatomy: Sumire is a slender girl. Bright purple eyes. Her expression is a cheerful open-mouthed smile.
-
- 2. Hair & Head: Extremely long, wavy pastel purple hair with blunt bangs and dark purple floral clips. She wears a black choker with a purple gem and dangling floral hair ornaments.
-
- 3. Species Traits: Cat Logic — Her animal features include pointed, sleek light purple cat ears and a slender, flexible light purple cat tail.
-
- 4. Upper Body: She wears a black choker with a purple gem and dangling floral hair ornaments. Her outfit is a black cropped jacket with purple floral and buckle accents layered over a white bustier top.
-
- 5. Lower Body & Feet: A black pleated mini skirt with a purple floral hem pattern, black thigh-high stockings with strappy floral garters, and chunky black combat boots with purple laces and floral details.
-
- 6. Pose: With her right hand raised in a curled paw-like gesture and her left arm resting behind her back.
 
 Physical Appearance Prompt Style 1 — Sumire Alt Style 1
 
@@ -528,10 +530,24 @@ Eto in Japanese:
 壬午
 
 Name Meaning:
+
 夕 = evening, dusk
+
 花 = flower
 
 Together, 夕花 / Yuuka gives the impression of a twilight flower — her black-to-violet gradient hair blooming into deep purple like a flower opening at dusk.
+
+Surname Meaning:
+
+早 = early, fast, swift
+
+瀬 = rapids, shallows, swift current
+
+Together, 早瀬 / Hayase gives the impression of swift-moving rapids — lively water that rushes forward with speed and energy.
+
+Full Name Meaning:
+
+Together, 早瀬 夕花 / Hayase Yuuka evokes a twilight flower carried beside swift rapids — dusk-colored beauty animated by cheerful motion, spontaneity, and unstoppable energy.
 
 Core Personality:
 Nyandere + Genkidere
@@ -633,9 +649,9 @@ Physical Appearance Prompt Style 1b — Yuuka
 
  3. Species Traits: Cat Logic — She has small, sleek black cat ears with pale peach inner fur and one slender, flexible black tail curved upward, its middle decorated with a large purple bow and flower.
 
- 4. Upper Body: A black collar with a large gold bell sits at her throat above a cropped black camisole printed with a purple outlined cat-face and paw-print logo, covered by an oversized black hooded bomber jacket with violet striped cuffs, gold rings, ribbon hardware, flower appliqués, and paw motifs. Black high-top platform.
+ 4. Upper Body: A black collar with a large gold bell sits at her throat above a cropped black camisole printed with a purple outlined cat-face and paw-print logo, covered by an oversized black hooded bomber jacket with violet striped cuffs, gold rings, ribbon hardware, flower appliqués, and paw motifs.
 
- 5. Lower Body & Feet: Her layered black-and-purple pleated miniskirt has an asymmetric ruffled construction, floral and paw-print decoration, and a large purple waist bow, with dark shorts visible beneath. Black thigh-high stockings are accented with purple bands and paw prints, while ringed garter straps and dangling flower charms decorate the thighs. Sneakers have white toe caps and soles, purple laces, paw-print tongue patches, and floral ornaments.
+ 5. Lower Body & Feet: Her layered black-and-purple pleated miniskirt has an asymmetric ruffled construction, floral and paw-print decoration, and a large purple waist bow, with dark shorts visible beneath. Black thigh-high stockings are accented with purple bands and paw prints, while ringed garter straps and dangling flower charms decorate the thighs. Black high-top platform sneakers have white toe caps and soles, purple laces, paw-print tongue patches, and floral ornaments.
 
  6. Pose: Facing directly forward with her feet apart and both elbows bent as she raises two clenched fists in an energetic double cat-paw pose.
 
@@ -745,9 +761,9 @@ Physical Appearance Prompt Style 1b — Yuuka Alt Style 1
 
  3. Species Traits: Cat Logic — She has small, sleek black cat ears with pale peach inner fur and one slender, flexible black tail that curls behind her and is tied with a purple bow and tiny gold charms.
 
- 4. Upper Body: She wears a black choker and a fitted black cropped top with a large purple blossom-and-heart emblem at the chest, layered under a black cropped jacket with violet trim, floral embroidery, shoulder cutouts, and lace-up ribbon details running down the sleeves. On her feet are black high-top platform.
+ 4. Upper Body: She wears a black choker and a fitted black cropped top with a large purple blossom-and-heart emblem at the chest, layered under a black cropped jacket with violet trim, floral embroidery, shoulder cutouts, and lace-up ribbon details running down the sleeves.
 
- 5. Lower Body & Feet: At her waist sits a black-and-purple pleated mini skirt with gold chain drapes, petal-like translucent overskirt panels, starry speckled accents, and a large floral bow ornament at one hip. Her legwear consists of black thigh-high stockings decorated with flower-star garters and dangling gem-like ornaments. Sneakers with white toe caps, purple soles, gold eyelets, and flower accents.
+ 5. Lower Body & Feet: At her waist sits a black-and-purple pleated mini skirt with gold chain drapes, petal-like translucent overskirt panels, starry speckled accents, and a large floral bow ornament at one hip. Her legwear consists of black thigh-high stockings decorated with flower-star garters and dangling gem-like ornaments. On her feet are black high-top platform sneakers with white toe caps, purple soles, gold eyelets, and flower accents.
 
  6. Pose: Facing forward with both elbows bent and both hands raised in front of her shoulders, fingers spread in an animated double cat-paw pose.
 
@@ -937,10 +953,24 @@ Eto in Japanese:
 庚辰
 
 Name Meaning:
+
 紅 = crimson, deep red-pink
+
 音 = sound, tone
 
 Together, 紅音 / Akane gives the impression of a crimson tone — her black hair streaked with vivid pink and the quiet chime of her heart-lock choker.
+
+Surname Meaning:
+
+黒 = black, darkness
+
+崎 = cape, promontory, projecting shoreline
+
+Together, 黒崎 / Kurosaki gives the impression of a dark cape extending into the sea — composed, striking, and edged with quiet mystery.
+
+Full Name Meaning:
+
+Together, 黒崎 紅音 / Kurosaki Akane evokes a crimson tone sounding from a dark cape — vivid emotion enclosed within black elegance, matching her controlled exterior and intense, possessive devotion.
 
 Core Personality:
 Nyandere + Yandere
@@ -1126,9 +1156,9 @@ Physical Appearance Prompt Style 4b — Akane
 
  3. Species Traits: Cat Logic — Adhering to cat logic, she sports sleek black feline ears and a slender, flexible black tail decorated with a red ribbon bow and a hanging heart charm.
 
- 4. Upper Body: She wears a black lace choker with a heart pendant, complementing a gothic-inspired black off-the-shoulder dress featuring a lace-up bodice, wide draped kimono-style sleeves with pink cherry blossom patterns, and a layered.
+ 4. Upper Body: She wears a black lace choker with a heart pendant, complementing a gothic-inspired black off-the-shoulder dress featuring a lace-up bodice, wide draped kimono-style sleeves with pink cherry blossom patterns.
 
- 5. Lower Body & Feet: Ruffled crimson underskirt tied with a large red ribbon bow at the waist. She pairs this with asymmetric black thigh-high stockings featuring floral patterns and a red strappy garter on the right thigh, completing the look with chunky black platform boots tied with red ribbons.
+ 5. Lower Body & Feet: A layered, ruffled crimson underskirt is tied with a large red ribbon bow at the waist. She pairs this with asymmetric black thigh-high stockings featuring floral patterns and a red strappy garter on the right thigh, completing the look with chunky black platform boots tied with red ribbons.
 
  6. Pose: Posing casually with her arms resting loosely at her sides.
 
@@ -1234,10 +1264,24 @@ Eto in Japanese:
 己卯
 
 Name Meaning:
+
 桃 = peach, peach-pink
+
 花 = flower
 
 Together, 桃花 / Momoka gives the impression of a peach blossom — head-to-toe soft pink and sweet flustered charm.
+
+Surname Meaning:
+
+桜 = cherry blossom
+
+庭 = garden, courtyard
+
+Together, 桜庭 / Sakuraba means a cherry-blossom garden — a sheltered place filled with soft spring color and delicate flowers.
+
+Full Name Meaning:
+
+Together, 桜庭 桃花 / Sakuraba Momoka evokes a peach blossom blooming in a cherry-blossom garden — layered pink softness, patient affection, and feelings that open gradually like spring flowers.
 
 Core Personality:
 Nyandere + Sakuradere
@@ -1531,10 +1575,24 @@ Eto in Japanese:
 癸未
 
 Name Meaning:
+
 蜜 = honey, nectar
+
 柑 = citrus, mandarin
 
 Together, 蜜柑 / Mikan is the mandarin orange itself — golden-orange hair, sunny energy, and bright red accents like a citrus label.
+
+Surname Meaning:
+
+日 = sun, sunlight, day
+
+向 = facing, turned toward
+
+Together, 日向 / Hinata commonly evokes a sunny place or somewhere facing the sun — warm, bright, and welcoming.
+
+Full Name Meaning:
+
+Together, 日向 蜜柑 / Hinata Mikan evokes a sweet mandarin ripening in the sun — golden-orange warmth, open affection, and a naturally cheerful presence.
 
 Core Personality:
 Nyandere + Deredere
@@ -1828,10 +1886,24 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
+
 杏 = apricot, apricot blossom
+
 月 = moon
 
 Together, 杏月 / Azuki gives the impression of an apricot moon — warm sand-to-pink gradient hair like apricot skies at moonrise.
+
+Surname Meaning:
+
+風 = wind
+
+間 = interval, space, opening
+
+Together, 風間 / Kazama gives the impression of a space or passage through which the wind moves — airy, shifting, and quietly free.
+
+Full Name Meaning:
+
+Together, 風間 杏月 / Kazama Azuki evokes an apricot-colored moon seen through a passage of wind — soft, atmospheric, and gently luminous, like a warm sky at moonrise.
 
 Core Personality:
 Nyandere + Teasedere
@@ -2131,10 +2203,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 紅 = crimson, vivid red
+
 花 = flower
 
 Together, 紅花 / Benika is the safflower — vivid rose-red hair fading to warm gold, a crimson flower with a playful bite.
+
+Surname Meaning:
+
+剣 = sword, blade
+
+持 = to hold, carry, possess
+
+Together, 剣持 / Kenmochi gives the impression of a sword bearer — someone who carries a blade with confidence and purpose.
+
+Full Name Meaning:
+
+Together, 剣持 紅花 / Kenmochi Benika evokes a crimson flower carried by a sword bearer — bright floral beauty balanced by boldness, playful sharpness, and inner resolve.
 
 Core Personality:
 Nyandere + Kiridere
@@ -2245,9 +2331,9 @@ Physical Appearance Prompt Style 1b — Benika
 
  3. Species Traits: Cat Logic — She has small, sleek pointed coral cat ears with pale inner fur and one long, flexible coral-to-soft-pink cat tail of even slender thickness that curves high behind her, ornamented with a red bow and oversized gold bell.
 
- 4. Upper Body: A fitted black bell choker sits above a cropped black camisole bearing a red flower emblem at the chest, layered beneath an oversized black hooded jacket with deep wine-red lining, red piping, gold rings and buckles, hanging tag-like ornaments, and elaborate red floral embroidery across the sleeves. Black high-top platform.
+ 4. Upper Body: A fitted black bell choker sits above a cropped black camisole bearing a red flower emblem at the chest, layered beneath an oversized black hooded jacket with deep wine-red lining, red piping, gold rings and buckles, hanging tag-like ornaments, and elaborate red floral embroidery across the sleeves.
 
- 5. Lower Body & Feet: A black belt, gold chains, tassels, and flower charms decorate an asymmetric pleated miniskirt constructed from alternating black and dark-red panels with fine gold trim. Black thigh-high stockings cover both legs, with one thigh accented by an ornate red-and-gold flower garter and hanging tassel. Sneakers have white toe caps, white laces, red ankle bows, and small floral emblems.
+ 5. Lower Body & Feet: A black belt, gold chains, tassels, and flower charms decorate an asymmetric pleated miniskirt constructed from alternating black and dark-red panels with fine gold trim. Black thigh-high stockings cover both legs, with one thigh accented by an ornate red-and-gold flower garter and hanging tassel. Black high-top platform sneakers have white toe caps, white laces, red ankle bows, and small floral emblems.
 
  6. Pose: Standing directly forward with her legs set about shoulder-width apart and both arms hanging comfortably at her sides with relaxed, slightly open hands.
 
@@ -2437,10 +2523,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 蓮 = lotus
+
 華 = flower, splendor
 
 Together, 蓮華 / Renge is the classical word for the lotus blossom itself — matching her lotus hair ornament and serene pink-white palette.
+
+Surname Meaning:
+
+水 = water
+
+城 = castle, fortress
+
+Together, 水城 / Mizuki gives the impression of a water castle — a serene stronghold reflected in still water.
+
+Full Name Meaning:
+
+Together, 水城 蓮華 / Mizuki Renge evokes a splendid lotus blooming beside a water castle — graceful, tranquil, and rooted in a refined aquatic elegance.
 
 Core Personality:
 Nyandere + Amadere
@@ -2605,7 +2705,7 @@ Physical Appearance Prompt Style 3 — Renge
 
  4. Upper Body: She wears a large pink lotus flower hairpiece tucked behind her left ear, a simple black choker, and matching pink floral thigh bands. Her outfit is a white wrap-around kimono-style top with wide, trailing sleeves printed with lotus patterns.
 
- 5. Lower Body & Feet: Secured at the waist by a wide pink obi belt with a central lotus emblem, a tiered pink ruffled miniskirt, opaque white thigh-high stockings, and pink platform sandals wrapped with ribbons.
+ 5. Lower Body & Feet: A wide pink obi belt with a central lotus emblem secures the outfit at the waist above a tiered pink ruffled miniskirt, opaque white thigh-high stockings, and pink platform sandals wrapped with ribbons.
 
  6. Pose: With both hands raised in front of her in a classic cat claw pose.
 
@@ -2739,10 +2839,24 @@ Eto in Japanese:
 壬午
 
 Name Meaning:
+
 苺 = strawberry
+
 花 = flower
 
 Together, 苺花 / Ichika gives the impression of a strawberry flower — matching the strawberry charms on her thigh-highs, her pink-and-purple sweetness, and the soft, quiet warmth she keeps mostly to herself.
+
+Surname Meaning:
+
+雨 = rain
+
+宮 = shrine, palace, sacred residence
+
+Together, 雨宮 / Amamiya gives the impression of a shrine or palace in the rain — quiet, sheltered, and contemplative.
+
+Full Name Meaning:
+
+Together, 雨宮 苺花 / Amamiya Ichika evokes a strawberry flower sheltered within a rain-washed shrine — gentle sweetness, private warmth, and a rich inner world protected by silence.
 
 Core Personality:
 Nyandere + Dandere
@@ -3036,10 +3150,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 彩 = color, coloring, vividness
+
 花 = flower, blossom
 
-Together, 彩花 / Ayaka means "colorful flower" — a blossom of many hues, which her blue-to-lavender-to-pink gradient embodies literally. Her surname 東雲 / Shinonome means "dawn" or "daybreak," and can also refer to clouds in the eastern sky at dawn. Her full name reads like a colorful flower blooming beneath a daybreak sky — graceful, luminous, and quietly beautiful.
+Together, 彩花 / Ayaka means “colorful flower” — a blossom of many hues, embodied literally by her blue-to-lavender-to-pink gradient.
+
+Surname Meaning:
+
+東 = east
+
+雲 = cloud
+
+Together, 東雲 / Shinonome is a poetic word for dawn or daybreak, especially the eastern clouds beginning to brighten before sunrise.
+
+Full Name Meaning:
+
+Together, 東雲 彩花 / Shinonome Ayaka evokes a colorful flower blooming beneath the clouds of daybreak — graceful, luminous, and softly warming as the sky changes from blue through lavender into pink.
 
 Core Personality:
 Nyandere + Rindere
@@ -3146,9 +3274,9 @@ Physical Appearance Prompt Style 1b — Ayaka
 
  3. Species Traits: Cat Logic — She has medium-sized, sleek blue cat ears with pink inner fur and white tufts and one slender, flexible tail carrying a blue-lavender-to-pink gradient and a lightly fluffy tip, tied with a pink bow and small blossom charms.
 
- 4. Upper Body: A black floral choker and crisscross chest harness with a small pink-white pendant sit above a cropped black V-neck camisole, layered beneath an oversized navy bomber jacket with pink lining, cherry-blossom and cloud graphics, utility straps, rings, buckles, and wide gradient sleeves. Navy-black chunky high-top platform.
+ 4. Upper Body: A black floral choker and crisscross chest harness with a small pink-white pendant sit above a cropped black V-neck camisole, layered beneath an oversized navy bomber jacket with pink lining, cherry-blossom and cloud graphics, utility straps, rings, buckles, and wide gradient sleeves.
 
- 5. Lower Body & Feet: High-waisted fitted black shorts are secured by a belt with a pink blossom-bow buckle and decorated with gold chains, dark hanging straps, blue-pink sash tabs, and one pink panel bearing stylized white kanji-like glyphs that are not cleanly legible. A black floral thigh garter with a blue tassel accents one bare leg, while short black socks carry pink paw-print emblems. Boots use blue laces, pink buckled straps, and sakura-colored accents.
+ 5. Lower Body & Feet: High-waisted fitted black shorts are secured by a belt with a pink blossom-bow buckle and decorated with gold chains, dark hanging straps, blue-pink sash tabs, and one pink panel bearing stylized white kanji-like glyphs that are not cleanly legible. A black floral thigh garter with a blue tassel accents one bare leg, while short black socks carry pink paw-print emblems. Navy-black chunky high-top platform boots use blue laces, pink buckled straps, and sakura-colored accents.
 
  6. Pose: Standing directly front-facing with both legs straight and slightly apart and her arms resting naturally at her sides.
 
@@ -3338,10 +3466,22 @@ Eto in Japanese:
 丙戌
 
 Name Meaning:
+
 春 = spring
+
 花 = flower
 
-Together, 春花 / Haruka means "spring flower" — a cheerful blossom opening in warm light, matching her bright orange hair, sunny expression, and flowerlike nipadere smile. Her surname 橘 / Tachibana means a tachibana orange or mandarin citrus, giving her full name the impression of orange blossoms in spring: fresh, vivid, sweet, and warmly radiant.
+Together, 春花 / Haruka means “spring flower” — a cheerful blossom opening in warm light, matching her bright orange hair, sunny expression, and flowerlike nipadere smile.
+
+Surname Meaning:
+
+橘 = tachibana citrus, a traditional evergreen Japanese orange
+
+Together, 橘 / Tachibana evokes fragrant citrus blossoms, evergreen leaves, and enduring brightness.
+
+Full Name Meaning:
+
+Together, 橘 春花 / Tachibana Haruka evokes a spring flower blooming on an evergreen citrus tree — fresh, vivid, sweet, and warmly radiant like her orange palette and encouraging smile.
 
 Core Personality:
 Nyandere + Nipadere
@@ -3453,9 +3593,9 @@ Physical Appearance Prompt Style 1b — Haruka
 
  3. Species Traits: Cat Logic — She has small, sleek pointed orange cat ears with white inner tufts and one long, flexible orange cat tail of even slender thickness with lighter golden shading, curved behind her and decorated with a large red bow centered by a white flower.
 
- 4. Upper Body: A black choker with a small gold bell-like pendant circles her neck above a frilled cream blouse with an orange ribbon bow, ruffled placket, and orange trim, layered beneath a cropped ivory hooded jacket with orange lining, floral embroidery, scalloped accents, black cuffs, and small bow-and-flower ornaments along the sleeves. White-and-orange high-top platform.
+ 4. Upper Body: A black choker with a small gold bell-like pendant circles her neck above a frilled cream blouse with an orange ribbon bow, ruffled placket, and orange trim, layered beneath a cropped ivory hooded jacket with orange lining, floral embroidery, scalloped accents, black cuffs, and small bow-and-flower ornaments along the sleeves.
 
- 5. Lower Body & Feet: A black waistband and belt sit above a short layered orange skirt composed of scalloped flower-patterned panels and a white ruffled underskirt, with a green sash, flowing orange ribbons, white blossoms, and an orange-slice medallion decorating one hip. White thigh-high stockings feature double orange bands, an orange paw-print motif, asymmetric green-orange piping, and small floral bow details. Sneakers have black ankle collars, orange laces, flower charms, and paw-print heel graphics.
+ 5. Lower Body & Feet: A black waistband and belt sit above a short layered orange skirt composed of scalloped flower-patterned panels and a white ruffled underskirt, with a green sash, flowing orange ribbons, white blossoms, and an orange-slice medallion decorating one hip. White thigh-high stockings feature double orange bands, an orange paw-print motif, asymmetric green-orange piping, and small floral bow details. White-and-orange high-top platform sneakers have black ankle collars, orange laces, flower charms, and paw-print heel graphics.
 
  6. Pose: Standing directly front-facing with her feet slightly apart and both elbows bent as she raises two small clenched fists beside her shoulders in an energetic double paw pose.
 
@@ -3648,12 +3788,22 @@ Eto in Japanese:
 癸未
 
 Name Meaning:
+
 桔梗 = Japanese bellflower or balloon flower
 
-水 = water
-野 = field or plain
+Together, 桔梗 / Kikyo is the Japanese name for the balloon flower, directly connecting her name to the cool blue-violet flower ornament in her hair and her refined, understated elegance.
 
-桔梗 / Kikyo is the Japanese name for the balloon flower, directly connecting her name to the cool blue-violet flower ornament worn in her hair. The flower’s refined shape and deep indigo coloring suit her composed appearance, understated elegance, and quietly devoted personality.
+Surname Meaning:
+
+水 = water
+
+野 = field, plain, open country
+
+Together, 水野 / Mizuno gives the impression of a field or open plain shaped by water — cool, spacious, and calm.
+
+Full Name Meaning:
+
+Together, 水野 桔梗 / Mizuno Kikyo evokes a blue-violet bellflower growing in a water-bright field — refined, composed, and quietly devoted.
 
 Core Personality:
 Nyandere + Kuudere
@@ -3982,9 +4132,22 @@ Eto in Japanese:
 癸未
 
 Name Meaning:
+
 琥珀 = amber (single two-character word)
 
 琥珀 / Kohaku is amber itself — rich chestnut hair, warm amber-brown eyes, and glowing autumnal warmth.
+
+Surname Meaning:
+
+向 = facing, turned toward
+
+井 = well
+
+Together, 向井 / Mukai literally suggests facing toward a well — an image of still water, quiet reflection, and an open orientation.
+
+Full Name Meaning:
+
+Together, 向井 琥珀 / Mukai Kohaku evokes warm amber glowing beside a quiet well — grounded, reflective, and softly radiant with autumnal warmth.
 
 Core Personality:
 Kondere + Dandere
@@ -4170,7 +4333,7 @@ Physical Appearance Prompt Style 4b — Kohaku
 
  3. Species Traits: Fox Logic — Applying fox logic, she has large, wide-based dark brown ears with white inner fluff and a thick, bushy dark brown tail that gradients to a striking white tip.
 
- 4. Upper Body: Her outfit starts with a mustard yellow collared button-up shirt featuring a neat brown ribbon tie, layered beneath a chunky cream-colored knit cardigan detailed with wooden buttons and subtle brown leaf embroidery. The top edge.
+ 4. Upper Body: Her outfit starts with a mustard yellow collared button-up shirt featuring a neat brown ribbon tie, layered beneath a chunky cream-colored knit cardigan detailed with wooden buttons and subtle brown leaf embroidery.
 
  5. Lower Body & Feet: She pairs this with a brown pleated miniskirt sporting a decorative geometric hemline and a simple brown belt. Her legwear consists of brown calf-high socks featuring small bows at the top edge, matched with cream-colored heeled ankle boots accented by brown straps, buckles, and delicate floral charms.
 
@@ -4278,10 +4441,24 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
+
 陽 = sun, sunlight
+
 葵 = aoi; a mallow-family plant
 
 Together, 陽葵 / Himari evokes a sunlit aoi blossom. Her name, reading, and golden floral design create a strong sunflower association, but 陽葵 itself is not literally the standard Japanese word for “sunflower.”
+
+Surname Meaning:
+
+朝 = morning
+
+霧 = mist, fog
+
+Together, 朝霧 / Asagiri means morning mist — pale haze illuminated by the first light of day.
+
+Full Name Meaning:
+
+Together, 朝霧 陽葵 / Asagiri Himari evokes a sunlit aoi blossom emerging through morning mist — golden warmth shining gently through a soft, dreamlike atmosphere.
 
 Core Personality:
 Kondere + Hajidere
@@ -4370,9 +4547,9 @@ Physical Appearance Prompt Style 1 — Himari
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based golden fox ears with cream inner fur and one thick, bushy golden-orange fox tail that sweeps outward behind her and fades into a broad creamy-white tip.
 
- 4. Upper Body: Her outfit is a white short-sleeved blouse with puffed sleeves, ruffled cuffs.
+ 4. Upper Body: Her outfit is a white short-sleeved blouse with puffed sleeves, ruffled cuffs, and a rounded lace-trimmed neckline.
 
- 5. Lower Body & Feet: A rounded lace-trimmed neckline layered beneath a golden-yellow suspender dress with a fitted high waist, decorative buttons, a broad front bow, sunflower embroidery near the hem, and a white ruffled underskirt, paired with short white ruffled bloomers visible beneath the skirt, cream knee-high ribbed socks with sunflower appliqués, and cream lace-up ankle boots with low heels and sunflower decorations.
+ 5. Lower Body & Feet: She wears it beneath a golden-yellow suspender dress with a fitted high waist, decorative buttons, a broad front bow, sunflower embroidery near the hem, and a white ruffled underskirt, paired with short white ruffled bloomers visible beneath the skirt, cream knee-high ribbed socks with sunflower appliqués, and cream lace-up ankle boots with low heels and sunflower decorations.
 
  6. Pose: With both fists lifted beside her chest in a lively double paw pose.
 
@@ -4398,9 +4575,9 @@ Physical Appearance Prompt Style 1c — Himari
 
  3. Species Traits: Fox Logic — She has wide golden ears with pale inner fur and a broad, feathery tail in warm orange-gold that fades to white at the tip.
 
- 4. Upper Body: Her top is a cream short-sleeved blouse with a modest frilled collar and a floral ribbon brooch at the throat.
+ 4. Upper Body: Her top is a cream short-sleeved blouse with a modest frilled collar and a floral ribbon brooch at the throat, topped by structured orange suspender straps and a high waist panel.
 
- 5. Lower Body & Feet: Over which sit structured orange suspender straps and a high waist panel that flow into a simple pinafore-style dress. The lower half consists of a marigold skirt embroidered with sunflowers near the hem, soft white ruffled bloomers peeking underneath, cream knee socks finished with sunflower decorations, and cream lace-up ankle boots with small sunflower ornaments.
+ 5. Lower Body & Feet: The lower half flows into a simple pinafore-style marigold skirt embroidered with sunflowers near the hem, with soft white ruffled bloomers peeking underneath, cream knee socks finished with sunflower decorations, and cream lace-up ankle boots with small sunflower ornaments.
 
  6. Pose: In the front pose she stands upright with both feet planted, both elbows bent, and both hands lifted near shoulder level with the fingers curled like paws.
 
@@ -4412,9 +4589,9 @@ Physical Appearance Prompt Style 2 — Himari
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based golden ears tufted with white inner fluff and one huge, thick, bushy cream-gold tail whose dense fur pales toward a soft ivory tip.
 
- 4. Upper Body: She wears a sunflower brooch pinned to the orange ribbon bow at her collar as her main accessory. Her outfit is a white short-puff-sleeved blouse with a lace-edged rounded collar and button placket layered beneath a marigold-yellow high-waisted suspender.
+ 4. Upper Body: Her outfit is a white short-puff-sleeved blouse with a lace-edged rounded collar and button placket, layered beneath marigold-yellow suspender straps.
 
- 5. Lower Body & Feet: Skirt tied with an orange waist bow, embroidered with sunflowers above its frilled cream hem, and worn over lace-trimmed cream bloomers that peek out below, with cream ribbed knee socks topped by scalloped lace and small sunflower ribbon charms, and cream lace-up ankle boots on low stacked heels with sunflower accents; all fabrics are pattern-only, with no text.
+ 5. Lower Body & Feet: The high-waisted skirt is tied with an orange waist bow, embroidered with sunflowers above its frilled cream hem, and worn over lace-trimmed cream bloomers that peek out below, with cream ribbed knee socks topped by scalloped lace and small sunflower ribbon charms, and cream lace-up ankle boots on low stacked heels with sunflower accents; all fabrics are pattern-only, with no text.
 
  6. Pose: Her expression is a wide, joyful open-mouthed smile, and she holds both hands up in loose fists in a double paw pose at chest level.
 
@@ -4454,9 +4631,9 @@ Physical Appearance Prompt Style 4 — Himari
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based orange fox ears and a thick, fluffy orange fox tail ending in a white tip.
 
- 4. Upper Body: A ruffled white blouse.
+ 4. Upper Body: She wears a ruffled white blouse beneath yellow suspender straps with sunflower embroidery.
 
- 5. Lower Body & Feet: Her outfit is a yellow suspender skirt with sunflower embroidery layered over a ruffled white blouse, ruffled white bloomers, cream knee-high socks with orange ribbons, and cream lace-up ankle boots with sunflower accents.
+ 5. Lower Body & Feet: The matching yellow suspender skirt is paired with ruffled white bloomers, cream knee-high socks with orange ribbons, and cream lace-up ankle boots with sunflower accents.
 
  6. Pose: With both hands raised playfully in curled paw gestures.
 
@@ -4470,7 +4647,7 @@ Physical Appearance Prompt Style 4b — Himari
 
  4. Upper Body: She wears a white short-sleeved blouse with ruffled cuffs and a small sunflower ribbon tie at the collar.
 
- 5. Lower Body & Feet: Neatly tucked into a light orange pleated suspender skirt. The skirt features a central orange waist bow, sunflower embroidery near the hemline, and a white scalloped underskirt layer revealing ruffled white bloomers beneath, finished with a large orange bow tied at the lower back. Her legwear includes cream-colored knee-high socks accented with small sunflower ribbons, paired with cream-colored lace-up heeled ankle boots detailed with matching sunflower charms.
+ 5. Lower Body & Feet: The blouse is neatly tucked into a light orange pleated suspender skirt. The skirt features a central orange waist bow, sunflower embroidery near the hemline, and a white scalloped underskirt layer revealing ruffled white bloomers beneath, finished with a large orange bow tied at the lower back. Her legwear includes cream-colored knee-high socks accented with small sunflower ribbons, paired with cream-colored lace-up heeled ankle boots detailed with matching sunflower charms.
 
  6. Pose: Posing playfully with both hands raised into soft, curled paw gestures.
 
@@ -4577,10 +4754,24 @@ Eto in Japanese:
 
 
 Name Meaning:
+
 白 = white, pure white
+
 羽 = feather, wing
 
 Together, 白羽 / Shiroha gives the impression of a white feather — snow-white hair sweeping over one eye, pale and feather-soft.
+
+Surname Meaning:
+
+白 = white, pure
+
+銀 = silver
+
+Together, 白銀 / Shirogane means silver or silvery white — a cool, luminous color associated with snow and moonlight.
+
+Full Name Meaning:
+
+Together, 白銀 白羽 / Shirogane Shiroha evokes a white feather made luminous by silver moonlight — pure, delicate, cool from a distance, and quietly warm when held close.
 
 Core Personality:
 Kondere + Tsundere
@@ -4760,9 +4951,9 @@ Physical Appearance Prompt Style 4 — Shiroha
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears and a thick, bushy pure white fox tail.
 
- 4. Upper Body: She wears a gold moon choker, tassel hairpieces, and a large white back bow. Her outfit is a white off-the-shoulder kimono-style top with wide sleeves and subtle moon patterns layered over a navy blue obi sash and a white mini.
+ 4. Upper Body: Her outfit is a white off-the-shoulder kimono-style top with wide sleeves and subtle moon patterns, layered over a navy blue obi sash.
 
- 5. Lower Body & Feet: Skirt, a single white thigh garter, and white heeled ankle boots with gold accents.
+ 5. Lower Body & Feet: She wears a white miniskirt, a single white thigh garter, and white heeled ankle boots with gold accents.
 
  6. Pose: With both hands gently curled into delicate paw poses.
 
@@ -4774,9 +4965,9 @@ Physical Appearance Prompt Style 4b — Shiroha
 
  3. Species Traits: Fox Logic — Adhering to fox logic, she features large, wide-based white ears and an incredibly thick, bushy pure white tail.
 
- 4. Upper Body: Her accessories include a white choker with a gold crescent moon pendant, complementing a beautiful white, short-cut kimono-style dress heavily detailed with gold floral and crescent moon patterns. The dress features off-the-shoulder draped.
+ 4. Upper Body: Her accessories include a white choker with a gold crescent moon pendant, complementing a beautiful white, short-cut kimono-style dress heavily detailed with gold floral and crescent moon patterns. The dress features off-the-shoulder draping, wide kimono sleeves, and a contrasting dark blue obi sash tied with gold cords and a large back bow.
 
- 5. Lower Body & Feet: Wide kimono sleeves and is cinched at the waist by a contrasting dark blue obi sash tied with gold cords and a large back bow. She leaves her legs mostly bare save for a delicate, strappy white garter with gold tassels on her left thigh, finishing the ensemble with white heeled ankle boots adorned with gold trim, prominent white ribbon bows, and hanging pearl-like charms.
+ 5. Lower Body & Feet: She leaves her legs mostly bare save for a delicate, strappy white garter with gold tassels on her left thigh, finishing the ensemble with white heeled ankle boots adorned with gold trim, prominent white ribbon bows, and hanging pearl-like charms.
 
  6. Pose: Posing sweetly with both hands curled into small, soft paw gestures near her collarbone.
 
@@ -4802,9 +4993,9 @@ Physical Appearance Prompt Style 1b — Shiroha Alt Style 1
 
  3. Species Traits: Fox Logic — She has large, wide-based white fox ears with pale pink-white inner fur and one thick, luxurious white fox tail that fans out behind her.
 
- 4. Upper Body: She wears a white choker with a gold crescent motif and a matching crescent pendant over a pale silver-white kimono-inspired dress with subtle floral patterning, gold trim, long flowing sleeves, and crescent-and-tassel ornaments hanging from the cuffs and hem.
+ 4. Upper Body: She wears a white choker with a gold crescent motif and a matching crescent pendant over a pale silver-white kimono-inspired dress with subtle floral patterning, gold trim, long flowing sleeves, and crescent-and-tassel ornaments hanging from the cuffs and hem, along with a decorative waist bow and a small fox charm tied at the front.
 
- 5. Lower Body & Feet: Along with a decorative waist bow and a small fox charm tied at the front. The lower half is a short layered skirt in pale silver-lilac with ruffled hems, and her bare legs are paired with white ankle socks and white heeled boots trimmed in gold, decorated with bows, tassels, and crescent emblems.
+ 5. Lower Body & Feet: The lower half is a short layered skirt in pale silver-lilac with ruffled hems, and her bare legs are paired with white ankle socks and white heeled boots trimmed in gold, decorated with bows, tassels, and crescent emblems.
 
  6. Pose: Standing front-facing with both elbows bent and both hands lifted near her chest in a shy, symmetrical paw-like pose.
 
@@ -4832,7 +5023,7 @@ Physical Appearance Prompt Style 2 — Shiroha Alt Style 1
 
  4. Upper Body: She wears a fitted white choker collar accented with a golden crescent moon. Her outfit is a white kimono-style minidress whose gold-trimmed crossover bodice is patterned with crescent moons, layered beneath a long sheer white haori printed with pale botanical leaves, edged in gold, and hung with crescent-and-tassel charms from its wide sleeves.
 
- 5. Lower Body & Feet: Cinched at the waist by a pale silver-white obi tied in a striped ribbon knot from which a white kitsune fox-mask charm dangles on golden cords, and crowned at the back by an enormous white bow with a gilded flower knot, paired with a matching pleated skirt over frilled bloomer ruffles, white crew socks dotted in gold, and white heeled boots wrapped in ribbons with golden crescents, tassels, and a star charm.
+ 5. Lower Body & Feet: A pale silver-white obi cinches the waist in a striped ribbon knot, with a white kitsune fox-mask charm dangling from golden cords and an enormous white back bow centered by a gilded flower knot. The lower half includes a matching pleated skirt over frilled bloomer ruffles, white crew socks dotted in gold, and white heeled boots wrapped in ribbons with golden crescents, tassels, and a star charm.
 
  6. Pose: With both hands raised as soft fists in a double paw pose before her chest.
 
@@ -4872,9 +5063,9 @@ Physical Appearance Prompt Style 4 — Shiroha Alt Style 1
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears and a thick, bushy pure white fox tail.
 
- 4. Upper Body: She wears a delicate gold crescent moon choker and hanging tassel ornaments. Her outfit is a white off-the-shoulder kimono-style jacket with subtle leaf patterns layered over a white mini.
+ 4. Upper Body: Her outfit is a white off-the-shoulder kimono-style jacket with subtle leaf patterns.
 
- 5. Lower Body & Feet: Skirt with gold accents, white thigh-high socks, and white heeled ankle boots adorned with gold moon charms and ribbons.
+ 5. Lower Body & Feet: She pairs it with a white miniskirt with gold accents, white thigh-high socks, and white heeled ankle boots adorned with gold moon charms and ribbons.
 
  6. Pose: With both hands gently curled into delicate paw poses near her chest.
 
@@ -4994,10 +5185,24 @@ Eto in Japanese:
 丙戌
 
 Name Meaning:
+
 咲 = to bloom, blossom
+
 実 = fruit, fruition
 
 Together, 咲実 / Sakumi evokes blossoms developing into fruit — a gentle image of growth coming to fruition that matches her sakura blossoms and cherry-fruit accents.
+
+Surname Meaning:
+
+春 = spring
+
+野 = field, plain
+
+Together, 春野 / Haruno means a spring field — open land awakening with new growth and blossoms.
+
+Full Name Meaning:
+
+Together, 春野 咲実 / Haruno Sakumi evokes blossoms developing into fruit across a spring field — a gentle image of growth, trust, and affection coming gradually to fruition.
 
 Core Personality:
 Kondere + Sakuradere
@@ -5118,7 +5323,7 @@ Physical Appearance Prompt Style 1b — Sakumi
 
  6. Pose: Facing directly forward with her feet slightly apart and both fists lifted beside her shoulders in an animated double paw pose.
 
-Physical Appearance Prompt Style 1b — Sakumi
+Physical Appearance Prompt Style 1c — Sakumi
 
  1. Base Anatomy: Sakumi has a petite, softly rounded build. Bright sky-blue eyes, and a lively open smile with a cute, slightly mischievous sweetness.
 
@@ -5304,10 +5509,24 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
+
 青 = blue, blue-green
+
 海 = sea, ocean
 
 Together, 青海 / Aomi is the blue sea — ice-blue hair and tail like sea foam, with amber eyes like sunlight on water.
+
+Surname Meaning:
+
+汐 = tide, especially an evening tide
+
+崎 = cape, promontory, projecting shoreline
+
+Together, 汐崎 / Shiosaki gives the impression of a cape touched by the tide — a meeting place between moving water and enduring land.
+
+Full Name Meaning:
+
+Together, 汐崎 青海 / Shiosaki Aomi evokes a blue sea meeting a tidal cape — cool, expansive, and bright with the colors of water, sea foam, and sunlight.
 
 Core Personality:
 Kondere + Rindere
@@ -5484,9 +5703,9 @@ Physical Appearance Prompt Style 4 — Aomi
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, fluffy light blue fox tail with a white tip.
 
- 4. Upper Body: She wears a blue jeweled choker, floral hairpieces, and a blue back bow with a seashell. Her outfit is a white and blue sailor-style bodice with sheer sleeves layered over a high-low ocean wave and starry sky patterned.
+ 4. Upper Body: Her outfit is a white and blue sailor-style bodice with sheer sleeves.
 
- 5. Lower Body & Feet: Skirt, a blue thigh garter, sheer white diamond-patterned socks, and white heeled ankle boots adorned with seashells.
+ 5. Lower Body & Feet: She pairs it with a high-low skirt patterned with ocean waves and a starry sky, a blue thigh garter, sheer white diamond-patterned socks, and white heeled ankle boots adorned with seashells.
 
  6. Pose: With both hands raised to chest level in curled paw gestures.
 
@@ -5606,10 +5825,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 虹 = rainbow
+
 花 = flower
 
 Together, 虹花 / Nijika gives the impression of a rainbow flower — two-tone blue-and-pink hair, a gradient tail, and candy-colored paw prints.
+
+Surname Meaning:
+
+西 = west
+
+川 = river
+
+Together, 西川 / Nishikawa means western river — flowing water associated with the direction of sunset.
+
+Full Name Meaning:
+
+Together, 西川 虹花 / Nishikawa Nijika evokes a rainbow flower reflected in a western river — prismatic color, flowing light, and playful brightness gathered into one image.
 
 Core Personality:
 Kondere + Kiridere
@@ -6128,7 +6361,7 @@ Physical Appearance Prompt Style 4 — Nijika Alt Style 3
 
  6. Pose: With her arms resting casually downward at her sides.
 
-Physical Appearance Prompt Style 4b — Nijika
+Physical Appearance Prompt Style 4b — Nijika Alt Style 3
 
  1. Base Anatomy: Nijika is a slender young girl. Bright blue eyes. She exhibits a gentle smile.
 
@@ -6245,10 +6478,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 夕 = evening
+
 陽 = sun
 
 Together, 夕陽 / Yuuhi is the setting sun — orange-to-pink gradient hair and tail, the exact colors of a sunset sky.
+
+Surname Meaning:
+
+西 = west
+
+園 = garden, cultivated grounds
+
+Together, 西園 / Nishizono means western garden — a garden positioned toward the setting sun.
+
+Full Name Meaning:
+
+Together, 西園 夕陽 / Nishizono Yuuhi evokes the evening sun descending over a western garden — a direct union of sunset colors, floral calm, and warm fading light.
 
 Core Personality:
 Kondere + Genkidere
@@ -6547,10 +6794,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 百合 = lily
+
 音 = sound, tone
 
 Together, 百合音 / Yurine evokes a lily-like chime — a pure, gentle sound matching her white lily hair ornament, bright smile, and soft white-silver palette.
+
+Surname Meaning:
+
+百合 = lily
+
+野 = field, plain
+
+Together, 百合野 / Yurino means a field of lilies — a pure, graceful landscape filled with white blossoms.
+
+Full Name Meaning:
+
+Together, 百合野 百合音 / Yurino Yurine evokes the gentle sound of lilies moving across a lily field — soft, pure, musical, and quietly radiant.
 
 Core Personality:
 Kondere + Nipadere
@@ -6651,8 +6912,6 @@ Physical Appearance Prompt Style 1 — Yurine
 
 Physical Appearance Prompt Style 1b — Yurine
 
-Physical Appearance Prompt Style 1b — Yurine
-
  1. Base Anatomy: Yurine has a petite, delicate build. Warm amber-gold eyes, and an open, happy smile that suits her soft pastel palette.
 
  2. Hair & Head: Her hair is a short, silky bob in white with the faintest lavender-blue cast toward the ends, with smooth bangs and a large white lily ornament on one side accented by hanging gold and pearl-like strands.
@@ -6665,15 +6924,17 @@ Physical Appearance Prompt Style 1b — Yurine
 
  6. Pose: In the front pose she stands facing forward with both feet evenly placed and both hands raised beside her chest in a neat pawing gesture.
 
+Physical Appearance Prompt Style 1c — Yurine
+
  1. Base Anatomy: Yurine is a petite, slender girl. Warm golden-amber eyes. She ends with a delighted open-mouthed smile.
 
  2. Hair & Head: A radiant, cheerful gaze, paired with a short chin-length icy-white bob shaded faintly in pale lavender-blue, shaped with smooth inward-curving ends and soft straight bangs, and decorated at one side with a large cluster of white lilies, green leaves, and fine gold bead chains.
 
  3. Species Traits: Fox Logic — She has large, wide-based white fox ears with cool lavender shading at the outer tips and pale pink-white inner tufts, plus one thick, plush tail in snowy white and soft lavender that curves prominently behind her.
 
- 4. Upper Body: A white-and-gold collar with a delicate floral pendant rests above an empire-waisted white dress bodice centered by a sculpted white lily over a broad lavender bow, with fine gold edging and botanical embroidery; long off-shoulder bell sleeves are secured by lavender-and-white bows and decorated with gold floral linework. The dress opens into layered petal-shaped white.
+ 4. Upper Body: A white-and-gold collar with a delicate floral pendant rests above an empire-waisted white dress bodice centered by a sculpted white lily over a broad lavender bow, with fine gold edging and botanical embroidery; long off-shoulder bell sleeves are secured by lavender-and-white bows and decorated with gold floral linework.
 
- 5. Lower Body & Feet: Skirt panels over pale lavender ruffles and extends into two long split side drapes lined in lavender, edged in gold, and finished with hanging white lily tassels, while a large lavender back bow and central lily frame the base of her tail. One thigh carries a delicate white floral garter with fine gold chains and suspended botanical charms. White high-heeled ankle boots feature ruffled cuffs, gold piping, large white lily ornaments, lavender ribbon bows, and dangling gold details.
+ 5. Lower Body & Feet: The dress opens into layered petal-shaped white skirt panels over pale lavender ruffles and extends into two long split side drapes lined in lavender, edged in gold, and finished with hanging white lily tassels, while a large lavender back bow and central lily frame the base of her tail. One thigh carries a delicate white floral garter with fine gold chains and suspended botanical charms. White high-heeled ankle boots feature ruffled cuffs, gold piping, large white lily ornaments, lavender ribbon bows, and dangling gold details.
 
  6. Pose: Standing front-facing with her feet slightly apart and both elbows bent as she raises two small fists beside her shoulders in a playful double paw pose.
 
@@ -6727,9 +6988,9 @@ Physical Appearance Prompt Style 4 — Yurine
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based white fox ears and a thick, fluffy pure white fox tail.
 
- 4. Upper Body: She wears a delicate white choker, elegant lily hairpieces with tassels, and a prominent lavender back bow. Her outfit is a white off-the-shoulder blouse with flared sleeves and gold embroidery layered over a ruffled white mini.
+ 4. Upper Body: Her outfit is a white off-the-shoulder blouse with flared sleeves and gold embroidery.
 
- 5. Lower Body & Feet: Skirt and bloomers, a strappy white thigh garter, and white heeled ankle boots decorated with lilies.
+ 5. Lower Body & Feet: She pairs it with a ruffled white miniskirt and bloomers, a strappy white thigh garter, and white heeled ankle boots decorated with lilies.
 
  6. Pose: With both hands softly curled into paw gestures near her chest.
 
@@ -6741,9 +7002,9 @@ Physical Appearance Prompt Style 4b — Yurine
 
  3. Species Traits: Fox Logic — Adhering to fox logic, she possesses large, wide-based white ears and a thick, bushy pure white tail.
 
- 4. Upper Body: She wears a highly elegant, angelic white off-the-shoulder dress featuring a halter-style neckline, delicate sheer puffy sleeves with flared bell cuffs, intricate gold embroidery, and a prominent pale purple ribbon bow on the chest. The dress drops into a tiered.
+ 4. Upper Body: She wears a highly elegant, angelic white off-the-shoulder dress featuring a halter-style neckline, delicate sheer puffy sleeves with flared bell cuffs, intricate gold embroidery, and a prominent pale purple ribbon bow on the chest.
 
- 5. Lower Body & Feet: Petal-like skirt over ruffled white shorts, dramatically accented by long trailing fabric tails on the sides and a large matching purple bow at the lower back. Her bare legs are adorned with a delicate white strappy garter featuring hanging lily charms on the left thigh, paired perfectly with white heeled ankle boots decorated with matching lilies and purple ribbons.
+ 5. Lower Body & Feet: The dress drops into a tiered, petal-like skirt over ruffled white shorts, dramatically accented by long trailing fabric tails on the sides and a large matching purple bow at the lower back. Her bare legs are adorned with a delicate white strappy garter featuring hanging lily charms on the left thigh, paired perfectly with white heeled ankle boots decorated with matching lilies and purple ribbons.
 
  6. Pose: Posing energetically with both hands raised into soft, curled paw gestures near her collarbone.
 
@@ -6849,10 +7110,24 @@ Eto in Japanese:
 辛巳
 
 Name Meaning:
+
 夕 = evening, dusk
+
 羽 = feather, wing
 
 Together, 夕羽 / Yuuha gives the impression of a twilight feather — the aurora sweep of her indigo-to-teal-to-ice tail, like northern lights caught in fur.
+
+Surname Meaning:
+
+倉 = storehouse, warehouse, granary
+
+田 = rice field
+
+Together, 倉田 / Kurata gives the impression of fields beside a storehouse or granary — grounded, orderly, and quietly abundant.
+
+Full Name Meaning:
+
+Together, 倉田 夕羽 / Kurata Yuuha evokes a twilight feather drifting over well-kept fields beside a granary — calm, dependable, and touched by the distant colors of evening.
 
 Core Personality:
 Kondere + Kuudere
@@ -7146,10 +7421,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 陽 = sun, sunlight, warmth
+
 和 = harmony, peace, gentleness
 
-Together, 陽和 / Hiyori means "sunlit harmony" — warm light and gentle peace in a single name. The reading also echoes 日和 (hiyori), "fair weather," the kind of mild, blessed day when everything feels calm and right. Her surname 鈴宮 / Suzumiya means "bell shrine" — the suzu bell rung at shrine offerings, the same bell she wears at her throat. Her full name reads like a small sunlit shrine on a perfect clear day: peaceful, warm, and quietly sacred.
+Together, 陽和 / Hiyori means “sunlit harmony” — warm light and gentle peace in a single name. The reading also echoes 日和 / hiyori, meaning fair or pleasant weather.
+
+Surname Meaning:
+
+鈴 = bell, small ringing bell
+
+宮 = shrine, palace, sacred residence
+
+Together, 鈴宮 / Suzumiya means bell shrine — a sacred place marked by the clear sound of a suzu bell.
+
+Full Name Meaning:
+
+Together, 鈴宮 陽和 / Suzumiya Hiyori evokes sunlit harmony within a bell shrine on a fair-weather day — peaceful, warm, balanced, and quietly sacred.
 
 Core Personality:
 Kondere + Butsudere
@@ -7286,7 +7575,7 @@ Physical Appearance Prompt Style 2 — Hiyori
 
  4. Upper Body: She wears a red collar with a golden bell at her throat and a red bow with a second bell perched at her lower back above the tail. Her outfit is a white kimono-wrap bodice patterned with gold florals layered under a hooded cream haori jacket with wide gold-trimmed sleeves, peach blossom prints, red knot ornaments, and a gold quatrefoil crest on the back, cinched by a red obi sash with a golden knot cord and a hanging brocade omamori-style charm.
 
- 5. Lower Body & Feet: Over a peach floral pleated skirt with a sheer lace frill hem, bare legs with slouchy white socks, and cream heeled boots trimmed in gold with red knot-and-bell ornaments.
+ 5. Lower Body & Feet: The lower half includes a peach floral pleated skirt with a sheer lace frill hem, bare legs with slouchy white socks, and cream heeled boots trimmed in gold with red knot-and-bell ornaments.
 
  6. Pose: With both fists raised in a double paw pose at chest height.
 
@@ -7326,9 +7615,9 @@ Physical Appearance Prompt Style 4 — Hiyori
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based blonde fox ears and a thick, bushy blonde fox tail fading to a lighter cream tip.
 
- 4. Upper Body: She wears a red ribbon choker with a bell and elaborate floral hair ornaments with tassels. Her outfit is a white kimono-style outer jacket with gold and pink cherry blossom patterns layered over a peach-colored wrap top and a matching pleated mini.
+ 4. Upper Body: Her outfit is a white kimono-style outer jacket with gold and pink cherry blossom patterns, layered over a peach-colored wrap top.
 
- 5. Lower Body & Feet: Skirt with white lace trim, white ruffled calf socks, and white heeled ankle boots accented with red ribbons and gold bells.
+ 5. Lower Body & Feet: She pairs it with a matching pleated miniskirt with white lace trim, white ruffled calf socks, and white heeled ankle boots accented with red ribbons and gold bells.
 
  6. Pose: With both hands raised to her chest in curled, paw-like fists.
 
@@ -7448,10 +7737,24 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
+
 雛 = tiny, young, adorable
+
 菊 = chrysanthemum
 
-Together, 雛菊 / Hinagiku means daisy — a small, bright flower associated with innocent charm, hope, and simple happiness, matching her cream-gold palette, white flower ornament, and cheerful foxlike energy. Her surname 花守 / Hanamori gives the impression of a flower guardian, strengthening her gentle meadow-flower theme.
+Together, 雛菊 / Hinagiku is the Japanese word for daisy — a small, bright flower associated with innocent charm, hope, and simple happiness.
+
+Surname Meaning:
+
+花 = flower, blossom
+
+守 = guardian, protector; to protect
+
+Together, 花守 / Hanamori means flower guardian — someone who watches over and protects blossoms.
+
+Full Name Meaning:
+
+Together, 花守 雛菊 / Hanamori Hinagiku evokes a small daisy protected by a guardian of flowers — innocent, hopeful, cheerful, and lovingly sheltered.
 
 Core Personality:
 Kondere + Teasedere
@@ -7635,9 +7938,9 @@ Physical Appearance Prompt Style 4 — Hinagiku
 
  3. Species Traits: Fox Logic — Her animal features include large, wide-based brown fox ears and a thick, fluffy brown fox tail that transitions to a white tip.
 
- 4. Upper Body: Her outfit is a loose white hoodie with gold daisy embroidery and a yellow ribbon tie layered over a matching tiered.
+ 4. Upper Body: Her outfit is a loose white hoodie with gold daisy embroidery and a yellow ribbon tie.
 
- 5. Lower Body & Feet: Ruffled mini skirt with a brown belt, a daisy-adorned thigh garter on her left leg, slouched white ribbed socks decorated with daisies, and white heeled ankle boots with gold ribbon bows.
+ 5. Lower Body & Feet: She pairs it with a matching tiered, ruffled miniskirt with a brown belt, a daisy-adorned thigh garter on her left leg, slouched white ribbed socks decorated with daisies, and white heeled ankle boots with gold ribbon bows.
 
  6. Pose: With both hands gently curled into paw gestures near her chest.
 
@@ -7757,11 +8060,22 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
-黒 = black, darkness
-浜 = beach, shore
+
 珊瑚 = coral
 
-Together, 黒浜 珊瑚 / Kurohama Sango gives the impression of warm pink coral resting against a dark shoreline. Her surname reflects the oversized black streetwear that frames her soft appearance, while 珊瑚 / Sango represents her coral-pink hair, cream-colored tail tip, and bright ocean-blue eyes. Her full name captures the visual contrast at the center of her design: gentle tropical color surrounded by a comfortable layer of black.
+Together, 珊瑚 / Sango means coral — matching her coral-pink hair, cream-colored tail tip, and bright ocean-blue eyes.
+
+Surname Meaning:
+
+黒 = black, darkness
+
+浜 = beach, shore
+
+Together, 黒浜 / Kurohama means black shore or dark beach — a strong coastal image framed in deep shadow.
+
+Full Name Meaning:
+
+Together, 黒浜 珊瑚 / Kurohama Sango evokes warm pink coral resting against a dark shoreline — gentle tropical color surrounded by comfortable black, capturing the central contrast of her design.
 
 Core Personality:
 Kondere + Amadere
@@ -7865,9 +8179,9 @@ Physical Appearance Prompt Style 1 — Sango
 
  3. Species Traits: Fox Logic — Her animal features include a single pair of large, wide-based upright fox ears covered in matching pink fur with lighter inner tufts, and one thick, exceptionally bushy tail emerging naturally from her lower back, colored warm pink near the base and fading through blush peach into a contrasting creamy-white tip.
 
- 4. Upper Body: She wears a fitted black choker with a gold ring and a round peach-toned bell pendant, along with assorted floral, shell, bead, and paw-print charms attached throughout her clothing. Her outfit is an oversized black pullover hoodie with a deep hood, pink drawstrings, ribbed cuffs, balloon sleeves, a front kangaroo pocket, zippered utility compartments, and elaborate coral-reef, ocean-wave, flower, shell, and paw-print motifs; the chest is accurately printed with “Coral Shore” above the smaller name “Kurohama Sango,” while the back displays “Coral Shore” over a large tropical sunset seascape framed by palm trees, coral, shells, and curling waves. She pairs the hoodie with short black utility.
+ 4. Upper Body: She wears a fitted black choker with a gold ring and a round peach-toned bell pendant, along with assorted floral, shell, bead, and paw-print charms attached throughout her clothing. Her outfit is an oversized black pullover hoodie with a deep hood, pink drawstrings, ribbed cuffs, balloon sleeves, a front kangaroo pocket, zippered utility compartments, and elaborate coral-reef, ocean-wave, flower, shell, and paw-print motifs; the chest is accurately printed with “Coral Shore” above the smaller name “Kurohama Sango,” while the back displays “Coral Shore” over a large tropical sunset seascape framed by palm trees, coral, shells, and curling waves.
 
- 5. Lower Body & Feet: Shorts featuring layered straps, small buckles, decorative chains, and a long dangling paw-print tag, bare legs, scrunched black ankle warmers, and chunky black platform sneakers detailed with pink paw emblems, thick segmented soles, and subtle pink hardware.
+ 5. Lower Body & Feet: She pairs the hoodie with short black utility shorts featuring layered straps, small buckles, decorative chains, and a long dangling paw-print tag, bare legs, scrunched black ankle warmers, and chunky black platform sneakers detailed with pink paw emblems, thick segmented soles, and subtle pink hardware.
 
  6. Pose: With her shoulders relaxed, arms hanging naturally at her sides, fingers loosely extended, and feet placed slightly apart in the front and rear views while the profile view keeps her body straight and her gaze directed forward.
 
@@ -7879,9 +8193,9 @@ Physical Appearance Prompt Style 1b — Sango
 
  3. Species Traits: Fox Logic — She has two large, wide-based pink fox ears with pale inner fur and one thick, luxuriantly bushy tail that fades from blush pink at the base through peach to creamy ivory at the tip.
 
- 4. Upper Body: Her accessories include a fitted black choker with a gold ring and round bell-like pendant, while her main garment is an oversized black pullover hoodie with pink drawstrings, ribbed cuffs, utility pockets, zipper tabs, floral and shell charms, paw-print patches, coral-branch embroidery, and curling blue wave motifs; the chest reads “Coral Shore” with “Kurohama Sango” beneath it, and the back displays “Coral Shore” above a large tropical sunset, ocean, palm, coral, and wave illustration, with a small “UwU” tag near the hem. Beneath the hoodie she wears fitted black short.
+ 4. Upper Body: Her accessories include a fitted black choker with a gold ring and round bell-like pendant, while her main garment is an oversized black pullover hoodie with pink drawstrings, ribbed cuffs, utility pockets, zipper tabs, floral and shell charms, paw-print patches, coral-branch embroidery, and curling blue wave motifs; the chest reads “Coral Shore” with “Kurohama Sango” beneath it, and the back displays “Coral Shore” above a large tropical sunset, ocean, palm, coral, and wave illustration, with a small “UwU” tag near the hem.
 
- 5. Lower Body & Feet: Shorts detailed with layered straps, metal rings, hanging cords, and a small paw-print charm, followed by scrunched black ankle socks and chunky black platform sneakers with segmented soles, pink paw emblems, laces, and small accent loops.
+ 5. Lower Body & Feet: Beneath the hoodie, she wears fitted black shorts detailed with layered straps, metal rings, hanging cords, and a small paw-print charm, followed by scrunched black ankle socks and chunky black platform sneakers with segmented soles, pink paw emblems, laces, and small accent loops.
 
  6. Pose: She stands in neutral front, left-facing profile, and back turnaround poses with both arms relaxed at her sides, her legs straight and slightly apart, and her single tail hanging in a broad, natural curve behind her.
 
@@ -8071,10 +8385,24 @@ Eto in Japanese:
 庚辰
 
 Name Meaning:
+
 北 = north
+
 斗 = dipper, ladle; here referring to the celestial Dipper
 
 Together, 北斗 / Hokuto means the Northern Dipper, or Big Dipper — a starry northern name that matches his glossy black features and night-blue eyes.
+
+Surname Meaning:
+
+星 = star
+
+野 = field, plain
+
+Together, 星野 / Hoshino means field of stars — an open expanse filled with starlight.
+
+Full Name Meaning:
+
+Together, 星野 北斗 / Hoshino Hokuto evokes the Northern Dipper shining across a field of stars — celestial, steady, and naturally oriented toward the northern sky.
 
 Core Personality:
 Nyandere + Kuudere
@@ -8368,10 +8696,24 @@ Eto in Japanese:
 戊寅
 
 Name Meaning:
+
 月 = moon
+
 人 = person
 
 Together, 月人 / Tsukito literally suggests a “moon person” or “person of the moon”; for his character concept, this is rendered poetically as a moonlit person — mature, dependable, and steady as the moon overhead.
+
+Surname Meaning:
+
+満 = full, filled, complete
+
+田 = rice field
+
+Together, 満田 / Mitsuda gives the impression of a full or abundant rice field — completeness, nourishment, and dependable plenty.
+
+Full Name Meaning:
+
+Together, 満田 月人 / Mitsuda Tsukito evokes a moonlit person standing above a full and abundant field — mature, dependable, and steady beneath the moon.
 
 Core Personality:
 Nyandere + Otonadere
@@ -8478,9 +8820,9 @@ Physical Appearance Prompt Style 1b — Tsukito
 
  3. Species Traits: Cat Logic — He has small, sleek black cat ears with pale pink inner fur and one slender, flexible black tail that curves outward and downward behind him.
 
- 4. Upper Body: A silver crescent pendant hangs over a gray ribbed turtleneck sweater, while a black crossbody utility bag rests against his hip beneath a long black hooded technical coat with dark blue lining, silver zipper tracks, subtle reflective bands, crescent-moon emblems, and streamlined pocket hardware. Black lace-up high-top combat.
+ 4. Upper Body: A silver crescent pendant hangs over a gray ribbed turtleneck sweater, while a black crossbody utility bag rests against his hip beneath a long black hooded technical coat with dark blue lining, silver zipper tracks, subtle reflective bands, crescent-moon emblems, and streamlined pocket hardware.
 
- 5. Lower Body & Feet: Straight black trousers are secured by a black belt and decorated with a silver chain, crescent charm, side straps, and narrow hanging utility tabs. Boots have reinforced soles, silver midsoles, ankle straps, and crescent motifs on the outer shafts.
+ 5. Lower Body & Feet: Straight black trousers are secured by a black belt and decorated with a silver chain, crescent charm, side straps, and narrow hanging utility tabs. Black lace-up high-top combat boots have reinforced soles, silver midsoles, ankle straps, and crescent motifs on the outer shafts.
 
  6. Pose: Standing in a confident forward-facing stance with his feet apart, his left fist clenched beside his chest, and his right arm thrust straight upward with a raised celebratory fist.
 
@@ -8492,9 +8834,9 @@ Physical Appearance Prompt Style 1c — Tsukito
 
  3. Species Traits: Cat Logic — He has pointed black cat ears with pale pink inner fur, and a long black tail that hangs behind him with a gentle bend near the tip.
 
- 4. Upper Body: He layers a gray ribbed mock-neck knit under a long black hooded coat marked with crescent-moon motifs, and he adds stacked crescent pendants at the throat along with a slim black crossbody bag worn diagonally across the torso. He pairs the top with fitted black.
+ 4. Upper Body: He layers a gray ribbed mock-neck knit under a long black hooded coat marked with crescent-moon motifs, and he adds stacked crescent pendants at the throat along with a slim black crossbody bag worn diagonally across the torso.
 
- 5. Lower Body & Feet: Trousers, a narrow belt, a hanging moon charm at the hip, and black high-top lace-up boots with glossy trim.
+ 5. Lower Body & Feet: He pairs the top with fitted black trousers, a narrow belt, a hanging moon charm at the hip, and black high-top lace-up boots with glossy trim.
 
  6. Pose: In the front pose he stands firmly planted with his right arm thrust high overhead in a triumphant fist while his left arm is bent with a clenched fist held near his chest.
 
@@ -8670,10 +9012,24 @@ Eto in Japanese:
 癸未
 
 Name Meaning:
+
 彩 = color, vivid accents
+
 人 = person
 
 Together, 彩人 / Ayato gives the impression of a person of vivid color — the small bright touches woven through his black design: pink paw prints, beaded drawstrings, violet eyes.
+
+Surname Meaning:
+
+光 = light, radiance
+
+森 = forest
+
+Together, 光森 / Mitsumori means forest of light — trees filled or surrounded by radiance.
+
+Full Name Meaning:
+
+Together, 光森 彩人 / Mitsumori Ayato evokes a vividly colored person within a forest of light — dark foundations animated by bright accents, warmth, and subtle radiance.
 
 Core Personality:
 Nyandere + Deredere
@@ -8781,9 +9137,9 @@ Physical Appearance Prompt Style 1b — Ayato
 
  3. Species Traits: Cat Logic — He has small, sleek black cat ears with bright pink inner tufts and one slender, flexible black tail that arcs horizontally behind him.
 
- 4. Upper Body: A black buckled choker with tiny pink accents and a large silver crescent charm is layered with a longer star pendant necklace above a black graphic T-shirt dominated by a large blue-to-purple paw-print logo, all covered by an oversized black hooded jacket with cobalt-blue lining, paw patches, cat-face graphics, stars, paint-splash effects, bead-and-star drawcords, and vivid blue, pink, and violet hardware. Black high-top.
+ 4. Upper Body: A black buckled choker with tiny pink accents and a large silver crescent charm is layered with a longer star pendant necklace above a black graphic T-shirt dominated by a large blue-to-purple paw-print logo, all covered by an oversized black hooded jacket with cobalt-blue lining, paw patches, cat-face graphics, stars, paint-splash effects, bead-and-star drawcords, and vivid blue, pink, and violet hardware.
 
- 5. Lower Body & Feet: A pink sleeve strap reads “NYAN,” while a long blue waist strap reads “MEOW.” Black utility shorts with blue and pink piping are fitted with a gradient belt, chains, star charms, paw-print patches, and multiple hanging graphic straps. His mismatched crew socks are black on one leg and white on the other, both carrying paw prints and blue-pink stripe accents. Sneakers have white rubber toe caps and soles, blue laces and trim, oversized paw emblems, stars, and pink-blue decorative tabs.
+ 5. Lower Body & Feet: A pink sleeve strap reads “NYAN,” while a long blue waist strap reads “MEOW.” Black utility shorts with blue and pink piping are fitted with a gradient belt, chains, star charms, paw-print patches, and multiple hanging graphic straps. His mismatched crew socks are black on one leg and white on the other, both carrying paw prints and blue-pink stripe accents. Black high-top sneakers have white rubber toe caps and soles, blue laces and trim, oversized paw emblems, stars, and pink-blue decorative tabs.
 
  6. Pose: Standing squarely front-facing with his feet slightly apart and both arms relaxed naturally at his sides.
 
@@ -8837,9 +9193,9 @@ Physical Appearance Prompt Style 3 — Ayato
 
  3. Species Traits: Cat Logic — His animal features include smaller, pointed black cat ears with pink inner fur and a long, flexible, slender black cat tail that maintains an even thickness, curving up dynamically.
 
- 4. Upper Body: He wears a black leather collar with a silver crescent moon charm and a silver wallet chain with a pink star charm hanging from his. His outfit is an oversized black hooded jacket featuring blue and pink spray-paint splatters, a blue inner lining, and long drawstrings with star charms, layered over a black t-shirt with a large purple neon paw print graphic.
+ 4. Upper Body: He wears a black leather collar with a silver crescent moon charm and a silver wallet chain with a pink star charm hanging from his waist. His outfit is an oversized black hooded jacket featuring blue and pink spray-paint splatters, a blue inner lining, and long drawstrings with star charms, layered over a black t-shirt with a large purple neon paw print graphic.
 
- 5. Lower Body & Feet: Waist. Black denim shorts with blue trim and a hanging ribbon printed with the text "MEOW", mismatched black and white crew socks featuring paw-print motifs, and high-top black canvas sneakers with white toes and a pink paw print emblem on the sides.
+ 5. Lower Body & Feet: Black denim shorts with blue trim and a hanging ribbon printed with the text "MEOW", mismatched black and white crew socks featuring paw-print motifs, and high-top black canvas sneakers with white toes and a pink paw print emblem on the sides.
 
  6. Pose: With both arms hanging relaxed at his sides in a straightforward standing pose.
 
@@ -8973,10 +9329,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 藤 = wisteria, soft purple
+
 雄 = masculine, brave, excellent
 
 Together, 藤雄 / Fujio gives the impression of wisteria strength — soft lavender hair and tail balanced with a calm, reliable denim-casual ease.
+
+Surname Meaning:
+
+柳 = willow tree
+
+瀬 = rapids, shallows, swift current
+
+Together, 柳瀬 / Yanase gives the impression of willow trees beside flowing rapids — flexible grace set against lively water.
+
+Full Name Meaning:
+
+Together, 柳瀬 藤雄 / Yanase Fujio evokes strong wisteria growing beside willow-lined rapids — soft purple beauty balanced by relaxed confidence, attentiveness, and dependable strength.
 
 Core Personality:
 Nyandere + Teasedere
@@ -9275,10 +9645,24 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
+
 蒼 = deep blue, azure
+
 衣 = clothing, garment
 
 Together, 蒼衣 / Aoi gives the impression of an azure garment — the deep blue he wears like a mantle, in hair, ears, and sweeping tail.
+
+Surname Meaning:
+
+玉 = jewel, precious stone, sphere
+
+城 = castle, fortress
+
+Together, 玉城 / Tamaki gives the impression of a jewel castle — precious, protected, and quietly imposing.
+
+Full Name Meaning:
+
+Together, 玉城 蒼衣 / Tamaki Aoi evokes an azure garment worn within a jewel castle — deep blue elegance, protected warmth, and a refined sense of value.
 
 Core Personality:
 Kondere + Amadere
@@ -9577,9 +9961,22 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 小麦 = wheat (single two-character word)
 
 小麦 / Komugi is wheat itself — sandy blond hair and a cream tail, warm and unpretentious as a field in the sun.
+
+Surname Meaning:
+
+常 = constant, enduring, unchanging
+
+盤 = base, foundation, broad surface
+
+Together, 常盤 / Tokiwa is associated with permanence and evergreen endurance — something that remains firm and unchanged through the seasons.
+
+Full Name Meaning:
+
+Together, 常盤 小麦 / Tokiwa Komugi evokes golden wheat growing on enduring evergreen ground — warm, modest, dependable, and rooted in lasting stability.
 
 Core Personality:
 Kondere + Otonadere
@@ -9878,10 +10275,24 @@ Eto in Japanese:
 乙酉
 
 Name Meaning:
+
 星 = star
+
 夜 = night
 
 Together, 星夜 / Seiya gives the impression of a starry night — his galaxy-blue tail speckled with star-like lights.
+
+Surname Meaning:
+
+白 = white
+
+樺 = birch tree
+
+Together, 白樺 / Shirakaba means white birch — a pale, elegant tree associated with cool northern landscapes.
+
+Full Name Meaning:
+
+Together, 白樺 星夜 / Shirakaba Seiya evokes a starry night seen through white birch trees — cool, luminous, quiet, and patterned with points of celestial light.
 
 Core Personality:
 Kondere + Sunao-Chill
@@ -9974,9 +10385,9 @@ Physical Appearance Prompt Style 1 — Seiya
 
  3. Species Traits: Fox Logic — His animal features include large, wide-based pale-blue fox ears with cream inner fur and one thick, bushy fox tail that begins in deep navy at the base, transitions through vivid cobalt and sky blue, and ends in a broad icy-white tip.
 
- 4. Upper Body: He wears layered necklaces with star, crystal, and crescent-moon pendants. His outfit is a white ribbed sweater layered under a navy zip-front hoodie with pale-blue lining, fox emblems, constellation graphics, starry gradient panels, and dangling crescent charms.
+ 4. Upper Body: He wears layered necklaces with star, crystal, and crescent-moon pendants. His outfit is a white ribbed sweater layered under a navy zip-front hoodie with pale-blue lining, fox emblems, constellation graphics, starry gradient panels, and dangling crescent charms, along with matching celestial straps and dangling charm tabs attached to his jacket and shorts.
 
- 5. Lower Body & Feet: Along with matching celestial straps and dangling charm tabs attached to his jacket and shorts. Paired with navy shorts trimmed in silver and decorated with straps, chains, small stars, and celestial tags, scrunched white socks with blue star patches, and navy high-top sneakers with white laces, white toe caps, and star details.
+ 5. Lower Body & Feet: He pairs the outfit with navy shorts trimmed in silver and decorated with straps, chains, small stars, and celestial tags, scrunched white socks with blue star patches, and navy high-top sneakers with white laces, white toe caps, and star details.
 
  6. Pose: With one fist raised overhead and the other clenched near his chest in a spirited pose.
 
@@ -10180,10 +10591,24 @@ Eto in Japanese:
 甲申
 
 Name Meaning:
+
 暁 = dawn, daybreak
+
 月 = moon
 
 Together, 暁月 / Akatsuki gives the impression of a dawn moon — the pale moon still hanging in a reddening morning sky, matching his white hair washed with crimson and his glowing crescent-moon tail.
+
+Surname Meaning:
+
+紅 = crimson, deep red
+
+葉 = leaf
+
+Together, 紅葉 / Kureha means crimson leaves or autumn foliage — leaves transformed into vivid red by the season.
+
+Full Name Meaning:
+
+Together, 紅葉 暁月 / Kureha Akatsuki evokes a pale dawn moon hanging above crimson autumn leaves — white light washed with red, perfectly matching his moon, sunrise, and maple imagery.
 
 Core Personality:
 Kondere + Kuudere
@@ -10318,9 +10743,9 @@ Physical Appearance Prompt Style 2 — Akatsuki
 
  3. Species Traits: Fox Logic — His animal features include large, wide-based deep-crimson ears edged in pale fluff and a single grand, bushy tail of dark red fur marked with pale crescent-moon motifs that mists into a white tip.
 
- 4. Upper Body: He wears a black cord necklace with a white crescent pendant. His outfit is a cream turtleneck layered under an open black hooded haori-style coat that deepens into red at its wide sleeves and hem, printed with drifting maple leaves, faced with red asanoha-patterned lapels, adorned with a gold-and-red knot tassel at the chest and a fox silhouette on one sleeve, its back painted with a golden crescent moon, a rayed red sun, and a white Mt.
+ 4. Upper Body: He wears a black cord necklace with a white crescent pendant. His outfit is a cream turtleneck layered under an open black hooded haori-style coat that deepens into red at its wide sleeves and hem, printed with drifting maple leaves, faced with red asanoha-patterned lapels, adorned with a gold-and-red knot tassel at the chest and a fox silhouette on one sleeve, and painted across the back with a golden crescent moon, a rayed red sun, and a white Mt. Fuji among clouds and maple leaves. A red brocade tag inscribed with small stylized characters—ornamental rather than legible—hangs from the hood.
 
- 5. Lower Body & Feet: Fuji among clouds and maple leaves while a red brocade tag inscribed with small stylized characters, ornamental rather than legible, hangs from the hood, paired with corded black hakama-style joggers gathered into red-banded cuffs with buckled straps and criss-cross lacing at the calves, white socks printed with little red crescents, and black high-top sneakers with red maple-leaf panels and fox-motif straps.
+ 5. Lower Body & Feet: He pairs the coat with corded black hakama-style joggers gathered into red-banded cuffs with buckled straps and criss-cross lacing at the calves, white socks printed with little red crescents, and black high-top sneakers with red maple-leaf panels and fox-motif straps.
 
  6. Pose: With one arm raised high overhead in a fist while the other fist tightens at chest height.
 
@@ -10360,9 +10785,9 @@ Physical Appearance Prompt Style 4 — Akatsuki
 
  3. Species Traits: Fox Logic — His animal features include large, wide-based white fox ears with deep red interiors and a thick, fluffy fox tail featuring a striking red and white gradient adorned with white crescent moon markings.
 
- 4. Upper Body: He wears a thin silver necklace with a black crescent moon pendant and decorative red tassels hanging from his jacket and. His outfit is a black kimono-style jacket decorated with red maple leaves and a back graphic of a sun and crescent moon setting behind Mount Fuji layered over a white turtleneck sweater.
+ 4. Upper Body: He wears a thin silver necklace with a black crescent moon pendant and decorative red tassels hanging from his jacket and waist. His outfit is a black kimono-style jacket decorated with red maple leaves and a back graphic of a sun and crescent moon setting behind Mount Fuji layered over a white turtleneck sweater.
 
- 5. Lower Body & Feet: Waist. Dark grey cropped trousers with red straps and plaid cuffs, white ribbed socks with red moon emblems, and black and red high-top sneakers with maple leaf designs.
+ 5. Lower Body & Feet: Dark grey cropped trousers with red straps and plaid cuffs, white ribbed socks with red moon emblems, and black and red high-top sneakers with maple leaf designs.
 
  6. Pose: With his right hand curled into a fist near his chest and his left arm raised high in a victorious fist.
 
