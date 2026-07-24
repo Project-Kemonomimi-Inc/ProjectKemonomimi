@@ -6815,7 +6815,7 @@ Physical Appearance Prompt Style 2 — Nijika
 
  2. Hair & Head: Shaggy, shoulder-length powder-blue hair whose choppy under-layers melt into pastel pink and rainbow tints, accented above one ear by a rainbow-gradient flower ornament with hanging ribbons.
 
- 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and pink into a frosted white tip.
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and to a frosted white middle into a pink tip.
 
  4. Upper Body: She wears an O-ring collar harness topped with a small orange blossom, black fingerless long gloves, and a black thigh strap carrying a pink paw-print charm. Her outfit is a black high-neck halter crop top under a cropped black hooded jacket edged in holographic rainbow trim and covered with iridescent zippers, buckled sleeve straps bearing small katakana lettering, pastel paw prints, and rainbow blossoms.
 
@@ -6829,7 +6829,7 @@ Physical Appearance Prompt Style 2b — Nijika
 
  2. Hair & Head: Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons.
 
- 3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through pastel pink to a white tip.
+ 3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through white to a pastel pink tip.
 
  4. Upper Body: Over a black strappy crop top she wears a black harness-style halter with a gold ring and bell-flower centerpiece, and a cropped black hooded moto jacket edged in iridescent rainbow-holographic trim along the lapels, zippers, pocket flaps, and buckled sleeve straps, scattered with small rainbow flowers and paw prints; the back panel displays a large rainbow-gradient fox head framed by pastel blossoms and paws beneath a rectangular patch printed with 西川ニジカ read "Nishikawa Nijika" the character's own name, with the surname meaning "west river" and the katakana given name echoing "niji," the Japanese word for rainbow, and the same lettering repeats down a sleeve strap.
 
@@ -6843,7 +6843,7 @@ Physical Appearance Prompt Style 3 — Nijika
 
  2. Hair & Head: Short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side.
 
- 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy light blue fox tail that smoothly gradients into a soft pink tip.
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy gradienting from light blue to white before finishing with a soft pink tip.
 
  4. Upper Body: She wears a black choker with a golden bell and overlapping straps. Her outfit is a black cropped tank top layered under a black hooded streetwear jacket featuring rainbow gradient borders, a multi-colored neon floral pattern, and a prominent rainbow fox emblem on the back with the text "西川ニジカ" on the hood label.
 
@@ -6857,7 +6857,7 @@ Physical Appearance Prompt Style 4 — Nijika
 
  2. Hair & Head: Short, messy light blue to pink gradient hair, blunt bangs, and rainbow floral clips. She wears a black bell choker and colorful floral hairpieces.
 
- 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail fading from light blue to pale pink.
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail gradienting from light blue to white before finishing with a pale pink tip.
 
  4. Upper Body: She wears a black bell choker and colorful floral hairpieces. Her outfit is a black cropped jacket with holographic trim and a rainbow fox graphic reading "西川ニジカ" (Nishikawa Nijika) layered over a black strappy crop top.
 
@@ -6885,7 +6885,7 @@ Physical Appearance Prompt Style 5 — Nijika
 
 2. Hair & Head: Shoulder-length, tousled hair in a pastel gradient — sky-blue at the roots melting into pink and lilac at the tips — with wispy bangs. A rainbow-toned flower with dangling charms is pinned at one side.
 
-3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into cream and pink at the tip, plush and full.
+3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into white through the middle and lower fur, and finishes in a soft pastel-pink tip, plush and full.
 
 4. Upper Body: A black cropped halter top under an oversized black hooded jacket with iridescent rainbow-trimmed seams, buckle straps, zip pockets, chains, and pastel floral and paw-print motifs. The back of the hood carries a rainbow gradient fox-face graphic framed by flowers, with a small label above it printed with the Japanese characters 西川ニジカ reading "Nishikawa Nijika". A choker with a small bell sits at the throat. Vertical ribbon straps bear additional stylized "西川ニジカ" script.
 
@@ -6913,7 +6913,7 @@ Physical Appearance Prompt Style 5c — Nijika
 
 2. Hair & Head: Short, messy light blue hair transitioning to pink at the tips. Textured bangs. A vibrant rainbow flower hair clip and dangling safety pin earring on the left side.
 
-3. Species Traits: Upright light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting light blue and fading into pink at the tip.
+3. Species Traits: Upright light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting light blue, becomes white through the middle and lower fur, and finishes in a soft pastel-pink tip.
 
 4. Upper Body: Black choker with a gold bell, star, and criss-cross chest straps. Black inner crop top decorated with small flower motifs and a paw print. Over this, a black cropped zip-up jacket with a hood. The jacket features iridescent rainbow trim along the zippers, pockets, and sleeves. The hood interior is rainbow-colored. The back of the jacket displays a stylized rainbow gradient animal face logo surrounded by paw prints and flowers, with a rectangular box containing the Japanese katakana "西川ニジカ" (Yoshikawa Nijika). The right sleeve features a vertical strap with the katakana "西川ニジカ".
 
@@ -7193,7 +7193,7 @@ Physical Appearance Prompt Style 5 — Nijika Alt Style 2
 
 2. Hair & Head: Shoulder-length, tousled hair in a pastel gradient — sky-blue at the roots blending into pink and lilac at the tips — with wispy bangs. A rainbow-toned flower with dangling charms is pinned at one side.
 
-3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into cream and pink at the tip, plush and full.
+3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into cream white and into pink at the tip, plush and full.
 
 4. Upper Body: A black cropped halter top with a harness-style neckline under an oversized black hooded jacket trimmed with iridescent rainbow seams, buckle straps, zip pockets, chains, and pastel floral and paw-print motifs. The back of the hood carries a rainbow gradient fox-face graphic framed by flowers, with a small label above printed in Japanese reading "西川ニジカ" (Nishikawa Nijika). A choker with a small bell sits at the throat. Vertical ribbon straps bear additional stylized "西川ニジカ" script.
 
@@ -7253,7 +7253,7 @@ Physical Appearance Prompt Style 1b — Nijika Alt Style 3
 
  4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
- 5. Lower Body & Feet: The hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ.” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems.
+ 5. Lower Body & Feet: The hood patch and long vertical waist strap display the stylized Japanese text “西川ニジカ” High-waisted black utility shorts are secured by a black belt with a rainbow fox-head buckle and decorated with silver chains, D-rings, multicolored hanging straps, paw-print badges, and a black thigh band on one leg. Black scrunched socks cover her lower calves, and heavy black platform sneakers have thick lug soles, black laces, and contrasting paw-print tongue emblems.
 
  6. Pose: Standing directly front-facing with her feet set shoulder-width apart and both arms hanging naturally at her sides with relaxed open hands.
 
@@ -7267,7 +7267,7 @@ Physical Appearance Prompt Style 1c — Nijika Alt Style 3
 
  4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
- 5. Lower Body & Feet: The front hanging tag and the back collar patch both read “西川ニジカ,” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints.
+ 5. Lower Body & Feet: The front hanging tag and the back collar patch both read “西川ニジカ” which transliterates as “Nishikawa Nijika.” She wears black high-waisted shorts with an “X” belt buckle, hanging chains and straps, a thigh band with a paw emblem, black slouch socks, and chunky black platform boots marked with pastel paw prints.
 
  6. Pose: In the front pose her body faces straight ahead, her feet are planted shoulder-width apart, and both arms hang relaxed at her sides with her fingers slightly open.
 
@@ -7277,11 +7277,11 @@ Physical Appearance Prompt Style 2 — Nijika Alt Style 3
 
  2. Hair & Head: Shaggy, shoulder-length powder-blue hair whose choppy under-layers melt into pastel pink and rainbow tints, accented above one ear by a rainbow-gradient flower ornament with hanging ribbons.
 
- 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and pink into a frosted white tip.
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue ears lined with pale fluff and one spectacular, thick, bushy tail that fades from vivid blue through lilac and to a frosted white middle into a pink tip.
 
  4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
- 5. Lower Body & Feet: A rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ, reading "Nishikawa Nijika," above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels.
+ 5. Lower Body & Feet: A rectangular patch at the back collar and a long rainbow strap hanging from her belt are both printed with the Japanese characters 西川ニジカ reading "Nishikawa Nijika" above a large rainbow-gradient fox-head graphic ringed by flowers and paw prints on the jacket's back panel; it is paired with black cuffed shorts on a rainbow-buckled belt draped with chains and harness straps, slouchy black knit leg-warmer socks, and chunky black platform sneakers stamped with pink, blue, and white paw prints on the toes and heels.
 
  6. Pose: She stands squarely with her arms hanging relaxed at her sides.
 
@@ -7291,7 +7291,7 @@ Physical Appearance Prompt Style 2b — Nijika Alt Style 3
 
  2. Hair & Head: Her shaggy, layered sky-blue hair falls to her shoulders with a pastel pink-and-rainbow underlayer glowing at the nape, clipped with a rainbow-gradient flower ornament trailing thin ribbons.
 
- 3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through pastel pink to a white tip.
+ 3. Species Traits: Fox Logic — Fluffy blue ears with white inner fur perch on her head, and one large, plush tail flows behind her, shifting from blue through white to a pastel pink tip.
 
  4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
@@ -7305,7 +7305,7 @@ Physical Appearance Prompt Style 3 — Nijika Alt Style 3
 
  2. Hair & Head: Short, layered bright blue hair featuring vibrant pink and purple under-layers, styled with straight bangs and a colorful multi-layered flower clip on the left side.
 
- 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy light blue fox tail that smoothly gradients into a soft pink tip.
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based blue fox ears with white inner fur and a thick, bushy, fluffy gradienting from light blue to white before finishing with a soft pink tip.
 
  4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
@@ -7319,7 +7319,7 @@ Physical Appearance Prompt Style 4 — Nijika Alt Style 3
 
  2. Hair & Head: Short, messy light blue to pink gradient hair, blunt bangs, and rainbow floral clips. She wears a black bell choker and colorful floral hairpieces.
 
- 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail fading from light blue to pale pink.
+ 3. Species Traits: Fox Logic — Her animal features include large, wide-based light blue fox ears and a thick, bushy fox tail gradienting from light blue to white before finishing with a pale pink tip.
 
  4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
@@ -7347,7 +7347,7 @@ Physical Appearance Prompt Style 5 — Nijika Alt Style 3
 
 2. Hair & Head: Shoulder-length, tousled hair in a pastel gradient — sky-blue at the roots melting into pink and lilac at the tips — with wispy bangs. A rainbow-toned flower with dangling charms is pinned at one side.
 
-3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into cream and pink at the tip, plush and full.
+3. Species Traits: Two large blue pointed ears with pale inner shells, one accented with a small flower. A single long, thick, very bushy tail shading from blue at the base into white through the middle and lower fur, and finishes in a soft pastel-pink tip, plush and full.
 
 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
@@ -7375,7 +7375,7 @@ Physical Appearance Prompt Style 5c — Nijika Alt Style 3
 
 2. Hair & Head: Short, messy light blue hair transitioning to pink at the tips. Textured bangs. A vibrant rainbow flower hair clip and dangling safety pin earring on the left side.
 
-3. Species Traits: Upright light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting light blue and fading into pink at the tip.
+3. Species Traits: Upright light blue animal ears with white inner fluff. A thick, bushy tail with a gradient starting light blue, becomes white through the middle and lower fur, and finishes in a soft pastel-pink tip.
 
 4. Upper Body: She wears a black cropped top underneath a vibrant, iridescent jacket featuring rainbow patterns on the sleeves and collar, with visible text "西川ニジカ" (Nijika) printed in Japanese characters across the back of the hood. The jacket includes multiple pockets and decorative elements that add texture to her silhouette.
 
